@@ -1,0 +1,2 @@
+# ViewHatenaBookmark
+Chrome Extension ViewHatenaBookmark
