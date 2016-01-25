@@ -17,5 +17,7 @@ MIT License
 
 #謝辞
 [フリー]布風はてブアイコン[自作]
+
 http://the-gremlin.me/icon/750
+
 アイコンをお借りしました。
