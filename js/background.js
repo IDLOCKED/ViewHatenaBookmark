@@ -19,6 +19,7 @@ $(function(){
     });
 
     function createURL(){
+        chrome.browserAction.setBadgeBackgroundColor({color: "red"});
         // 今開いてるタブの情報を取得
         chrome.tabs.query({"active": true, "currentWindow": true}, function(tabs){
             // はてブ数チェック
